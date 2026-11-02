@@ -1,0 +1,1 @@
+Python data engineering pipeline that validates clickstream events, handles duplicates and out-of-order timestamps, sessionizes by event-time inactivity gaps, quarantines rejects, and publishes CSV/SQLite outputs with tests and run metrics.

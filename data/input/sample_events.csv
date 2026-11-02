@@ -1,0 +1,14 @@
+event_id,user_id,event_timestamp,event_type
+e001,u100,2026-01-01T10:00:00Z,page_view
+e002,u100,2026-01-01T10:05:00Z,click
+e003,u100,2026-01-01T10:12:00Z,add_to_cart
+e004,u100,2026-01-01T11:00:00Z,page_view
+e005,u200,2026-01-01T10:10:00Z,page_view
+e006,u300,,click
+e007,u300,not-a-time,page_view
+e008,u400,2026-01-01T12:00:00Z,page_view
+e008,u400,2026-01-01T12:01:00Z,click
+e009,,2026-01-01T13:00:00Z,page_view
+e010,u500,2026-01-01T14:00:00Z,page_view
+e011,u500,2026-01-01T14:30:00Z,click
+e012,u500,2026-01-01T15:00:01Z,page_view

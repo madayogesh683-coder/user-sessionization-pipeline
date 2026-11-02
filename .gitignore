@@ -1,0 +1,11 @@
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+.env
+data/input/generated_events.csv
+data/output/*
+!data/output/.gitkeep
+data/rejects/*
+!data/rejects/.gitkeep
